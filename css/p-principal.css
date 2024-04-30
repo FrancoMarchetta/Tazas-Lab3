@@ -1,0 +1,81 @@
+body{
+    background-color: white;
+}
+
+.logo{
+    width: 3cm;
+    height: 3cm;
+}
+
+#in-ses-reg{   
+    margin-left: 500px;
+    margin-bottom: 16px;
+}
+
+#titulo{
+    margin-bottom: 16px;
+}
+
+/* todo lo relacionado al footer */
+.footer{
+    background-color: brown;
+    margin-top: 500px;
+    height: 9cm;
+    color: white;
+    display: flex;
+}
+
+#redes{
+    margin-left: 2cm;
+}
+
+#contacto{
+    margin-left: 150px;
+}
+
+#medios-pago{
+    margin-left: 100px;
+}
+#envio{
+    margin-left: 150px;
+    
+}
+
+#mp-logo{
+    height: 80pxpx;
+    width: 150px;
+    margin-left: 20px;
+}
+#visa-logo{
+    height: 80px;
+    width: 150px;
+    margin-left: 20px; 
+    margin-bottom: 0.1px;
+    display: table-column
+}
+#paypal-logo{
+    height: 80px;
+    width: 150px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    /* border: solid black; */
+}
+#correo-logo{
+    height: 80px;
+    width: 200px;
+}
+#oca-logo{
+    height: 80px;
+    width: 200px;
+    display: table-column;
+    margin-top: 0.3cm;
+
+}
+#andreani-logo{
+    height: 80px;
+    width: 200px;
+    margin-left: 20px; 
+    margin-bottom: 0.1px;
+}
+
+
