@@ -15,6 +15,23 @@ body {
   #titulo {
     margin-bottom: 16px;
   }
+
+  /* sobre nosotros */
+  /* parte de mejores tazas */
+  #mejores-tazas{
+    
+    margin-left: 3cm;
+    width: 13cm;
+    /* border: solid black; */
+  }
+
+  #nosotros{
+    /* border: solid black; */
+    width: 13cm;
+    margin-left: 24cm;
+  }
+  
+
   
   /* todo lo relacionado al footer */
   .footer {
