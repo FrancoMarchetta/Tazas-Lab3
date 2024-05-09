@@ -1,97 +1,173 @@
-/* body {
-    background-color: white;
-  } */
-  @media only screen and (max-width: 1872px) {
-    /* ------------------header---------------- */
-    .logo {
-      width: 3cm;
-      height: 3cm;
-    }
-  
-    #in-ses-reg {
-      margin-left: 950px;
-      margin-bottom: 15px;
-    }
-  
-    #titulo {
-      margin-bottom: 15px;
-    }
-  
-    .logo {
-      width: 3cm;
-      height: 3cm;
-    }
-    #in-ses-reg {
-      margin-left: 850px;
-      margin-bottom: 15px;
-    }
-  
-    #titulo {
-      margin-bottom: 18px;
-    }
-  
-    /* ------------------body--------------- */
-  
-   
-  
-    /*-------------------footer ------------------------*/
-    .footer {
-      background-color: rgb(183, 36, 36);
-      margin-top: 500px;
-      height: 8.2cm;
-      color: white;
-      display: flex;
-    }
-  
-    #redes {
-      margin-left: 250px;
-    }
-  
-    #contacto {
-      margin-left: 180px;
-    }
-  
-    #medios-pago {
-      margin-left: 140px;
-    }
-    #envio {
-      margin-left: 190px;
-    }
-  
-    #mp-logo {
-      height: 80pxpx;
-      width: 150px;
-      margin-left: 20px;
-    }
-    #visa-logo {
-      height: 80px;
-      width: 150px;
-      margin-left: 20px;
-      margin-bottom: 0.1px;
-      display: table-column;
-    }
-    #paypal-logo {
-      height: 80px;
-      width: 150px;
-      margin-left: 20px;
-      margin-bottom: 10px;
-      /* border: solid black; */
-    }
-    #correo-logo {
-      height: 80px;
-      width: 200px;
-    }
-    #oca-logo {
-      height: 80px;
-      width: 200px;
-      display: table-column;
-      margin-top: 0.3cm;
-    }
-    #andreani-logo {
-      height: 80px;
-      width: 200px;
-      margin-left: 20px;
-      margin-bottom: 0.1px;
-    }
+
+@media only screen and (max-width: 1872px) {
+  /* ------------------header---------------- */
+
+  .logo {
+    width: 3cm;
+    height: 3cm;
   }
+  #in-ses-reg {
+    margin-left: 850px;
+    margin-bottom: 15px;
+  }
+
+  #titulo {
+    margin-bottom: 18px;
+  }
+
+  /* ------------------body--------------- */
+
+  /*-------------------footer ------------------------*/
+  .footer {
+    background-color: rgb(183, 36, 36);
+    margin-top: 500px;
+    height: 8.2cm;
+    color: white;
+    display: flex;
+  }
+
+  #redes {
+    margin-left: 250px;
+  }
+
+  #contacto {
+    margin-left: 180px;
+  }
+
+  #medios-pago {
+    margin-left: 140px;
+  }
+  #envio {
+    margin-left: 190px;
+  }
+
+  #mp-logo {
+    height: 80pxpx;
+    width: 150px;
+    margin-left: 20px;
+  }
+  #visa-logo {
+    height: 80px;
+    width: 150px;
+    margin-left: 20px;
+    margin-bottom: 0.1px;
+    display: table-column;
+  }
+  #paypal-logo {
+    height: 80px;
+    width: 150px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    /* border: solid black; */
+  }
+  #correo-logo {
+    height: 80px;
+    width: 200px;
+  }
+  #oca-logo {
+    height: 80px;
+    width: 200px;
+    display: table-column;
+    margin-top: 0.3cm;
+  }
+  #andreani-logo {
+    height: 80px;
+    width: 200px;
+    margin-left: 20px;
+    margin-bottom: 0.1px;
+  }
+}
+
+@media only screen and (max-width: 1488px) {
+  /* ------------------header---------------- */
+  .logo {
+    width: 3cm;
+    height: 3cm;
+  }
+  #in-ses-reg {
+    margin-left: 500px;
+    margin-bottom: 15px;
+  }
+
+  #titulo {
+    margin-bottom: 18px;
+  }
+
+  /* ------------------body-------------------------- */
+  #carrusel{
+   width: 15cm;
+   /* margin-left: 60%; */
+   /* float: right; */
+   margin-top: -8cm;
+   margin-left: 3cm;
+   /* border: solid black; */
   
+
+  }
+#texto{
+  margin-left: 20cm;
+  /* border: solid black; */
+}
+
+  
+
+  /*-------------------footer ------------------------*/
+  .footer {
+    background-color: rgb(183, 36, 36);
+    margin-top: 500px;
+    height: 8.2cm;
+    color: white;
+    display: flex;
+  }
+
+  #redes {
+    margin-left: 100px;
+  }
+
+  #contacto {
+    margin-left: 180px;
+  }
+
+  #medios-pago {
+    margin-left: 140px;
+  }
+  #envio {
+    margin-left: 190px;
+  }
+
+  #mp-logo {
+    height: 80px;
+    width: 150px;
+    margin-left: 20px;
+  }
+  #visa-logo {
+    height: 80px;
+    width: 150px;
+    margin-left: 20px;
+    margin-bottom: 0.1px;
+    display: table-column;
+  }
+  #paypal-logo {
+    height: 80px;
+    width: 150px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    /* border: solid black; */
+  }
+  #correo-logo {
+    height: 80px;
+    width: 200px;
+  }
+  #oca-logo {
+    height: 80px;
+    width: 200px;
+    display: table-column;
+    margin-top: 0.3cm;
+  }
+  #andreani-logo {
+    height: 80px;
+    width: 200px;
+    margin-left: 20px;
+    margin-bottom: 0.1px;
+  }
+}

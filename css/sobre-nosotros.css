@@ -1,22 +1,8 @@
 /* body {
     background-color: white;
   } */
-@media only screen and (max-width: 1872px) {
+@media only screen and (max-width: 1872px) {/* <-----------------PC escritorio */
   /* ------------------header---------------- */
-  .logo {
-    width: 3cm;
-    height: 3cm;
-  }
-
-  #in-ses-reg {
-    margin-left: 950px;
-    margin-bottom: 15px;
-  }
-
-  #titulo {
-    margin-bottom: 15px;
-  }
-
   .logo {
     width: 3cm;
     height: 3cm;
@@ -36,34 +22,30 @@
     margin-left: 7cm;
     width: 40cm;
     /* border: solid black; */
-   
   }
 
   #foto1 {
-    float:right;width:850px;height:750px;
+    float: right;
+    width: 850px;
+    height: 750px;
     margin-top: -6cm;
-
   }
-  #mejores-tazas-txt{
+  #mejores-tazas-txt {
     font-size: 24px;
-    
   }
-
 
   #nosotros {
     /* border: solid black; */
     margin-left: 8cm;
     margin-top: 3cm;
   }
-  #foto2{
+  #foto2 {
     width: 650px;
     height: 550px;
     float: left;
-    
-
   }
-  #nosotros-txt{
-    font-size:24px;
+  #nosotros-txt {
+    font-size: 24px;
   }
 
   /*-------------------footer ------------------------*/
@@ -92,6 +74,118 @@
 
   #mp-logo {
     height: 80pxpx;
+    width: 150px;
+    margin-left: 20px;
+  }
+  #visa-logo {
+    height: 80px;
+    width: 150px;
+    margin-left: 20px;
+    margin-bottom: 0.1px;
+    display: table-column;
+  }
+  #paypal-logo {
+    height: 80px;
+    width: 150px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    /* border: solid black; */
+  }
+  #correo-logo {
+    height: 80px;
+    width: 200px;
+  }
+  #oca-logo {
+    height: 80px;
+    width: 200px;
+    display: table-column;
+    margin-top: 0.3cm;
+  }
+  #andreani-logo {
+    height: 80px;
+    width: 200px;
+    margin-left: 20px;
+    margin-bottom: 0.1px;
+  }
+}
+
+@media only screen and (max-width: 1488px) {/* <-----------------notebook */
+
+  /* ------------------header---------------- */
+  .logo {
+    width: 3cm;
+    height: 3cm;
+  }
+  #in-ses-reg {
+    margin-left: 500px;
+    margin-bottom: 15px;
+  }
+
+  #titulo {
+    margin-bottom: 18px;
+  }
+
+  /* ------------------body--------------- */
+
+
+  #mejores-tazas {
+    margin-left: 3cm;
+    width: 40cm;
+    /* border: solid black; */
+  }
+
+  #foto1 {
+    float: right;
+    width: 650px;
+    height: 550px;
+    margin-top: -4cm;
+    margin-right: 6cm;
+    /* border: solid black; */
+  }
+  #mejores-tazas-txt {
+    font-size: 24px;
+  }
+
+  #nosotros {
+    /* border: solid black; */
+    margin-left: 0cm;
+    margin-top: 3cm;
+  }
+  #foto2 {
+    width: 650px;
+    height: 550px;
+    float: left;
+  }
+  #nosotros-txt {
+    font-size: 24px;
+  }
+
+  /*-------------------footer ------------------------*/
+  .footer {
+    background-color: rgb(183, 36, 36);
+    margin-top: 500px;
+    height: 8.2cm;
+    color: white;
+    display: flex;
+  }
+
+  #redes {
+    margin-left: 100px;
+  }
+
+  #contacto {
+    margin-left: 180px;
+  }
+
+  #medios-pago {
+    margin-left: 140px;
+  }
+  #envio {
+    margin-left: 190px;
+  }
+
+  #mp-logo {
+    height: 80px;
     width: 150px;
     margin-left: 20px;
   }
