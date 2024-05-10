@@ -2,7 +2,6 @@
     background-color: white;
   } */
 @media only screen and (max-width: 1872px) {
-
   /* <-----------------PC escritorio */
   /* ------------------header---------------- */
   .logo {
@@ -141,24 +140,25 @@
 
   /* ------------------body--------------- */
 
-
   #mejores-tazas {
     margin-left: 3cm;
     width: 40cm;
     /* border: solid black; */
   }
+  #texto1 {
+    font-size: 22px;
+    width: 14cm;
+    /* border: solid black; */
 
+  }
   #foto1 {
-    float: right;
+    /* float: right; */
     width: 650px;
     height: 550px;
-    margin-top: -4cm;
-    margin-right: 6cm;
+    margin-top: -150px;
+    padding-right: 1cm;
+    margin-right: 2.2cm;
     /* border: solid black; */
-  }
-
-  #mejores-tazas-txt {
-    font-size: 24px;
   }
 
   #nosotros {
@@ -170,12 +170,12 @@
   #foto2 {
     width: 650px;
     height: 550px;
-    float: left;
+    margin-top: -5cm;
   }
 
-  #nosotros-txt {
-    font-size: 24px;
-  }
+ #texto2{
+  font-size: 22px;
+ }
 
   /*-------------------footer ------------------------*/
   .footer {
