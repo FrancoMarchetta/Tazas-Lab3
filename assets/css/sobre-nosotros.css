@@ -40,13 +40,17 @@
   #nosotros {
     /* border: solid black; */
     margin-left: 8cm;
-    margin-top: 3cm;
+
   }
 
+  #boton-tazas{
+    margin-left: 35%;
+  }
+  
   #foto2 {
     width: 650px;
     height: 550px;
-    float: left;
+    
   }
 
   #nosotros-txt {
