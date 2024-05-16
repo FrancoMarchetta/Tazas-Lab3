@@ -1,0 +1,206 @@
+@media only screen and (max-width: 1872px) {
+    /* ------------------header---------------- */
+  
+    .logo {
+      width: 3cm;
+      height: 3cm;
+    }
+    #in-ses-reg {
+      margin-left: 850px;
+      margin-bottom: 15px;
+    }
+  
+    #titulo {
+      margin-bottom: 18px;
+    }
+  
+    /* ------------------body--------------- */
+
+   
+    /*-------------------footer ------------------------*/
+    .footer {
+      background-color: rgb(183, 36, 36);
+      margin-top: 500px;
+      height: 8.2cm;
+      color: white;
+      display: flex;
+    }
+  
+    #redes {
+      margin-left: 250px;
+    }
+  
+    #contacto {
+      margin-left: 180px;
+    }
+  
+    #medios-pago {
+      margin-left: 140px;
+    }
+    #envio {
+      margin-left: 190px;
+    }
+  
+    #mp-logo {
+      height: 80pxpx;
+      width: 150px;
+      margin-left: 20px;
+    }
+    #visa-logo {
+      height: 80px;
+      width: 150px;
+      margin-left: 20px;
+      margin-bottom: 0.1px;
+      display: table-column;
+    }
+    #paypal-logo {
+      height: 80px;
+      width: 150px;
+      margin-left: 20px;
+      margin-bottom: 10px;
+      /* border: solid black; */
+    }
+    #correo-logo {
+      height: 80px;
+      width: 200px;
+    }
+    #oca-logo {
+      height: 80px;
+      width: 200px;
+      display: table-column;
+      margin-top: 0.3cm;
+    }
+    #andreani-logo {
+      height: 80px;
+      width: 200px;
+      margin-left: 20px;
+      margin-bottom: 0.1px;
+    }
+  }
+  
+  @media only screen and (max-width: 1488px) {
+    /* ------------------header---------------- */
+    .logo {
+      width: 3cm;
+      height: 3cm;
+    }
+    #in-ses-reg {
+      margin-left: 500px;
+      margin-bottom: 15px;
+    }
+  
+    #titulo {
+      margin-bottom: 18px;
+    }
+
+    /* ------------------body--------------- */
+
+    #cuerpo{
+        box-sizing: border-box;
+        margin-left: 500px;
+        margin-right: 500px;
+        border-radius: 30px;
+    }
+    .contenedorpadre{
+        background-color: rgb(241, 239, 237);
+        margin-top: 300px;
+        padding: 80px;
+        padding-bottom: 120px;
+        padding-top: 100px;
+        border-radius: 20px;
+        box-sizing: border-box;
+        
+    }
+    .contenedor1{
+        text-align: center;
+        box-sizing: border-box;
+    }
+    .label1{
+        margin-bottom: 15px;
+        color: rgb(44, 45, 47);
+    }
+    .cuerpo1{
+        text-align: center;
+        border: solid rgb(220, 204, 204);
+        border-radius: 10px;
+        margin-left: 55px;
+        color: rgb(143, 131, 131);
+        
+    }
+    .contenedor2{
+        margin-top: 60px;
+        text-align: center;
+        box-sizing: border-box;
+        
+    }
+    .label2{
+        margin-bottom: 15px;
+        color: rgb(44, 45, 47);
+    }
+    .cuerpo2{
+        text-align: center;
+        border: solid rgb(220, 204, 204);
+        border-radius: 10px;
+        color: rgb(143, 131, 131);
+    }
+    /*-------------------footer ------------------------*/
+    .footer {
+      background-color: rgb(183, 36, 36);
+      /* margin-top: 500px; */
+      /* height: 8.2cm; */
+      color: white;
+      display: flex;
+    }
+  
+    #redes {
+    margin-left: 50px;
+    }
+  
+    #contacto {
+      margin-left: 130px;
+    }
+  
+    #medios-pago {
+      margin-left: 130px;
+    }
+    #envio {
+      margin-left: 160px;
+    }
+  
+    #mp-logo {
+      height: 80px;
+      /* width: 150px; */
+      margin-left: 20px;
+    }
+    #visa-logo {
+      height: 80px;
+      /* width: 150px; */
+      margin-left: 20px;
+      margin-bottom: 0.1px;
+      display: table-column;
+    }
+    #paypal-logo {
+      height: 80px;
+      /* width: 150px; */
+      margin-left: 20px;
+      margin-bottom: 2px;
+       border: solid black;
+    }
+    #correo-logo {
+      height: 80px;
+      /* width: 200px; */
+    }
+    #oca-logo {
+      height: 80px;
+      /* width: 200px; */
+      display: table-column;
+      margin-top: 0.3cm;
+    }
+    #andreani-logo {
+      height: 80px;
+      /* width: 200px; */
+      margin-left: 20px;
+      margin-bottom: 0.1px;
+    } 
+  }
+  
