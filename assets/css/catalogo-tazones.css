@@ -117,7 +117,10 @@
    #catalogo{
     padding-left: 3cm;
    }
- 
+   .card:hover{
+    translate: 0 -20px;
+    transition: 0.5s;
+   }
   
     /*-------------------footer ------------------------*/
     .footer {
