@@ -1,0 +1,33 @@
+:root {
+  /* footer variables */
+  --footer-background-color: #b72424;
+  --footer-link-color: #F5F5F5;
+}
+body{
+  min-height: 100vh;
+  padding-top: 8em;
+}
+.footer {
+  background-color: var(--footer-background-color);
+}
+
+footer .nav-link,
+footer .nav__title {
+  color: var(--footer-link-color);
+}
+
+.nav-link {
+  padding-left: 0.5em;
+}
+
+
+.img__logo{
+  max-width: 4rem;
+  padding-right: .5rem;
+  padding-block: .5rem;
+}
+
+.img__logo--navbar {
+  width:6rem;
+  mix-blend-mode: multiply;
+}
