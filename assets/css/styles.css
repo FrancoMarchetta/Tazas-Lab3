@@ -35,3 +35,16 @@ footer .nav__title {
 #btn-registrarse{
   color: #F5F5F5;
 }
+
+
+.card-footer {
+  border-top: none;
+  background-color: transparent;
+}
+
+
+.card-header {
+  border-bottom: none;
+  background-color: transparent;
+  padding: 0;
+}
